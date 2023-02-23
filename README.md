@@ -1,10 +1,5 @@
 ### Olá eu sou a Bia ( Beatriz )  👋
 
-<!--
-**princessBia/princessBia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 Apaixonada por tecnologia
 - 🌱 Formada em Comunicação ( Publicitária) 
 <div align="center">
